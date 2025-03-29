@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Jiatong Portfolio"
+  name: "Jiatong's Portfolio"
   text: "Personal Site"
   tagline: My great project tagline
   actions:

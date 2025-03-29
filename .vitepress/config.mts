@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Jiatong Portfolio",
+  title: "Jiang Jiatong",
   description: "Personal Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
